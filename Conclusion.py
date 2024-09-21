@@ -1,0 +1,1 @@
+# Move to the data science and learn the numpy and pandas in detail

@@ -1,0 +1,8 @@
+print("calculator")
+a=input("enter your first number :")
+b=input("enter your second number : ")
+print("Addition of ",a,"and",b,"is",int(a)+int(b))
+print("Substraction of ",a,"and",b,"is",int(a)-int(b))
+print("Multiplication of ",a,"and",b,"is",int(a)*int(b))
+print("Division of ",a,"and",b,"is",int(a)/int(b))
+print("remainder of ",a,"and",b,"is",int(a)% int(b))

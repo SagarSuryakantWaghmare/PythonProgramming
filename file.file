@@ -1,0 +1,4 @@
+import shutil
+# shutil.copy("main.py","main2.py")
+# shutil.copytree("ShutileModule","mycontent")
+shutil.move("ShutileModule/main.py","file.file")
